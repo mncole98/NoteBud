@@ -1,5 +1,5 @@
 # NoteBud
-Notebud is an app that assists in keeping track of all your notes in one place!
+NoteBud is an app that assists in keeping track of all your notes in one place!
 
 ## Deployed Site
 
